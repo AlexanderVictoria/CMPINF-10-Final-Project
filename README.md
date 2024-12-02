@@ -1,8 +1,13 @@
 <h1>Pittsburgh Neighborhood Analysis</h1>
 
+<p>Group Name: Neighborhood Navigators</p>
+
+<p>Canvas Group Number: 21</p>
+
 <p>Group Members</p>
 
 * Alexander Victoria alv175@pitt.edu
+* * Fire Reports
 * Augustine George aug30@pitt.edu 
 * Patrick Simpson pas342@pitt.edu
 
