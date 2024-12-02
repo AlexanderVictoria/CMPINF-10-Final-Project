@@ -16,4 +16,4 @@
 
 <p>The goal is to combine these metrics to determine the most desirable neighborhoods in Pittsburgh based on safety, health, and environmental quality.</p>
 
-<p>Each submetric dataset has been uploaded to the repository with a seperate notebook where analysis was done that are combined together in the [Final-Report.ipynb](Final-Report.ipynb) file</p>
+<p>Each submetric dataset has been uploaded to the repository with a seperate notebook where analysis was done that are combined together in the [Final-Report](Final-Report.ipynb) file</p>[Final-Report](Final-Report.ipynb)
