@@ -7,7 +7,7 @@
 <p>Group Members</p>
 
 * Alexander Victoria alv175@pitt.edu
-* * Fire Reports
+  * Fire Reports
 * Augustine George aug30@pitt.edu 
 * Patrick Simpson pas342@pitt.edu
 
