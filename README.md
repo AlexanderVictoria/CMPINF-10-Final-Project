@@ -1,6 +1,7 @@
 <h1>Pittsburgh Neighborhood Analysis</h1>
 
 <p>Group Members</p>
+
 * Alexander Victoria alv175@pitt.edu
 * Augustine George aug30@pitt.edu 
 * Patrick Simpson pas342@pitt.edu
