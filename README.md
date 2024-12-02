@@ -1,5 +1,11 @@
 <h1>Pittsburgh Neighborhood Analysis</h1>
 
+<p>Group Members</p>
+*Alexander Victoria alv175@pitt.edu
+*Augustine George aug30@pitt.edu 
+*Patrick Simpson pas342@pitt.edu
+
+
 <p>This project analyzes data on air quality, fire reports, and drug overdoses in the Pittsburgh area to identify the best neighborhoods. By performing data analysis and visualization, we aim to provide insights that can help residents, policymakers, and community stakeholders make informed decisions.</p>
 
 <h2>Overview</h2>
