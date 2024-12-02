@@ -7,11 +7,11 @@
 <p>Group Members</p>
 
 * Alexander Victoria alv175@pitt.edu
- * Fire Reports
+  * Fire Reports
 * Augustine George aug30@pitt.edu
- * Air Quality
+  * Air Quality
 * Patrick Simpson pas342@pitt.edu
- * Drug Overdose
+  * Drug Overdose
 
 <h2>Overview</h2>
 
